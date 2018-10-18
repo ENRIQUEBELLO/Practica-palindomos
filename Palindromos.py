@@ -1,5 +1,6 @@
 _autor_ = 'Enrique Bello'
 #palabras palindromos
+
 palindromos = [
     'enrique bello bello enrique',
     'anita lava la tina',
@@ -7,6 +8,7 @@ palindromos = [
     986755,
     'yo hago yoga hoy',
     'a mercedes ese de crema',
+    'mani inam',
     7337
 ]
 
