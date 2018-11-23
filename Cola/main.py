@@ -1,3 +1,5 @@
+__autor__='ENRIQUE BELLO'
+
 """
 Cola:
 Es una estructura de datos, caracterizada por ser una secuencia de elementos en

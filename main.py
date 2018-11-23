@@ -1,14 +1,15 @@
+_autor_ = 'Enrique Bello'
 from Pila import Pila
 
 pila = Pila(6)
 
-pila.push(45)
-pila.push(90)
-pila.push(100)
-pila.push(115)
-pila.push(123)
-pila.push(129)
-pila.push(132)
+pila.push(20)
+pila.push(49)
+pila.push(110)
+pila.push(159)
+pila.push(196)
+pila.push(200)
+pila.push(284)
 
 #pila.pop()
 

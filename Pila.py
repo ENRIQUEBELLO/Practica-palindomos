@@ -1,3 +1,4 @@
+_autor_ = 'Enrique Bello'
 class Pila():
 
     def __init__(self,size):
