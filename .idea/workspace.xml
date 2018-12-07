@@ -2,36 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbe55592-2762-4ec2-8709-68f69232ceb0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArbolBinario/binary_search_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArbolBinario/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArbolBinario/node.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Grafos_y_Arbol/Arbol_Binario.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Grafos_y_Arbol/Grafos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Grafos_y_Arbol/Grafos_1_Practica.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Grafos_y_Arbol/Grafos_2_Practica.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Grafos_y_Arbol/Grafos_3_Practicas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Grafos_y_Arbol/Grafos_4_Practicas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Grafos_y_Arbol/Grafos_Practica.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaEnlazada/lista_simple_enlazada.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaEnlazada/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaEnlazada/nodo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Metodos_D_Ordenamiento/BubleSort1/BubleSort1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Metodos_D_Ordenamiento/BubleSort1/mainB.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Metodos_D_Ordenamiento/CountingSort/CountingSort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Metodos_D_Ordenamiento/HeapSort/HeapSort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Metodos_D_Ordenamiento/MergeSort/MergeSort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Metodos_D_Ordenamiento/MergeSort/mainM.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Metodos_D_Ordenamiento/QuickSort/QuickSort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Metodos_D_Ordenamiento/RadixSort/Main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Metodos_D_Ordenamiento/RadixSort/RadixSort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pruevas100/BubbleSort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MetodosOrdenamiento/.idea/AlgoritmosOrdenamiento.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MetodosOrdenamiento/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MetodosOrdenamiento/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MetodosOrdenamiento/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MetodosOrdenamiento/HeapSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MetodosOrdenamiento/QuickSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MetodosOrdenamiento/aBurbuja.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MetodosOrdenamiento/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MetodosOrdenamiento/mergeSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Metodos_De_Busqueda/Binaria.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Metodos_De_Busqueda/Llave.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Metodos_De_Busqueda/Secuencial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Metodos_De_Busqueda/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cola/cola.py" beforeDir="false" afterPath="$PROJECT_DIR$/Cola/cola.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cola/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Cola/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pila.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pila.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Metodos_D_Ordenamiento/MergeSort/MergeSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Metodos_D_Ordenamiento/MergeSort/MergeSort.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +29,7 @@
     <SUITE FILE_PATH="coverage/NUMEROS$busquedaBinaria.coverage" NAME="busquedaBinaria Coverage Results" MODIFIED="1538672184394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NUMEROS$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1541178353589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ListaEnlazada" />
     <SUITE FILE_PATH="coverage/NUMEROS$mainB__1_.coverage" NAME="mainB (1) Coverage Results" MODIFIED="1542848537007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Metodos_D_Ordenamiento/BubleSort" />
+    <SUITE FILE_PATH="coverage/NUMEROS$HeapSort.coverage" NAME="HeapSort Coverage Results" MODIFIED="1544137895303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MetodosOrdenamiento" />
     <SUITE FILE_PATH="coverage/NUMEROS$Grafos3.coverage" NAME="Grafos3 Coverage Results" MODIFIED="1542306624024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grafos" />
     <SUITE FILE_PATH="coverage/NUMEROS$mainM.coverage" NAME="mainM Coverage Results" MODIFIED="1542998875692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Metodos_D_Ordenamiento/MergeSort" />
     <SUITE FILE_PATH="coverage/NUMEROS$busquedaLineal.coverage" NAME="busquedaLineal Coverage Results" MODIFIED="1538672097803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -52,6 +38,7 @@
     <SUITE FILE_PATH="coverage/NUMEROS$Practica1_prueba.coverage" NAME="Practica1_prueba Coverage Results" MODIFIED="1539367850916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practica 1" />
     <SUITE FILE_PATH="coverage/NUMEROS$Palindromos.coverage" NAME="Palindromos Coverage Results" MODIFIED="1539899847695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NUMEROS$arbol_binario.coverage" NAME="arbol_binario Coverage Results" MODIFIED="1542307693303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ArbolBinario2L" />
+    <SUITE FILE_PATH="coverage/NUMEROS$mergeSort.coverage" NAME="mergeSort Coverage Results" MODIFIED="1544138063991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MetodosOrdenamiento" />
     <SUITE FILE_PATH="coverage/NUMEROS$Grafos.coverage" NAME="Grafos Coverage Results" MODIFIED="1542322633802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grafos" />
     <SUITE FILE_PATH="coverage/NUMEROS$Burbuja.coverage" NAME="Burbuja Coverage Results" MODIFIED="1538531460210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NUMEROS$lista_simple_enlazada.coverage" NAME="lista_simple_enlazada Coverage Results" MODIFIED="1541176857351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ListaEnlazada" />
@@ -59,7 +46,7 @@
     <SUITE FILE_PATH="coverage/NUMEROS$BubbleSort.coverage" NAME="BubbleSort Coverage Results" MODIFIED="1542164275663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pruevas100" />
     <SUITE FILE_PATH="coverage/NUMEROS$Grafos2.coverage" NAME="Grafos2 Coverage Results" MODIFIED="1542417342827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grafos_y_Arbol" />
     <SUITE FILE_PATH="coverage/NUMEROS$mainB.coverage" NAME="mainB Coverage Results" MODIFIED="1542826700937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BubleSort" />
-    <SUITE FILE_PATH="coverage/NUMEROS$mainB__2_.coverage" NAME="mainB (2) Coverage Results" MODIFIED="1542997805348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Metodos_D_Ordenamiento/BubleSort1" />
+    <SUITE FILE_PATH="coverage/NUMEROS$mainB__2_.coverage" NAME="mainB (2) Coverage Results" MODIFIED="1543001658143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Metodos_D_Ordenamiento/BubleSort1" />
     <SUITE FILE_PATH="coverage/NUMEROS$Insercion.coverage" NAME="Insercion Coverage Results" MODIFIED="1538540799052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NUMEROS$Pruebas.coverage" NAME="Pruebas Coverage Results" MODIFIED="1539898805235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProyectosDelProfeEnPracticas" />
     <SUITE FILE_PATH="coverage/NUMEROS$Seleccion.coverage" NAME="Seleccion Coverage Results" MODIFIED="1538537264247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -68,11 +55,14 @@
     <SUITE FILE_PATH="coverage/NUMEROS$Grafos__1_.coverage" NAME="Grafos (1) Coverage Results" MODIFIED="1542323669902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grafos_y_Arbol" />
     <SUITE FILE_PATH="coverage/NUMEROS$Arbol_Binario__1_.coverage" NAME="Arbol_Binario (1) Coverage Results" MODIFIED="1542325435991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grafos_y_Arbol" />
     <SUITE FILE_PATH="coverage/NUMEROS$BubleSort1.coverage" NAME="BubleSort1 Coverage Results" MODIFIED="1542326330293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BubleSort" />
+    <SUITE FILE_PATH="coverage/NUMEROS$QuickSort.coverage" NAME="QuickSort Coverage Results" MODIFIED="1544135359794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MetodosOrdenamiento" />
     <SUITE FILE_PATH="coverage/NUMEROS$Grafos_4_Practicas.coverage" NAME="Grafos_4_Practicas Coverage Results" MODIFIED="1542418726485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grafos_y_Arbol" />
+    <SUITE FILE_PATH="coverage/NUMEROS$Secuencial.coverage" NAME="Secuencial Coverage Results" MODIFIED="1544054305874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Metodos_De_Busqueda" />
+    <SUITE FILE_PATH="coverage/NUMEROS$aBurbuja.coverage" NAME="aBurbuja Coverage Results" MODIFIED="1544130776067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MetodosOrdenamiento" />
     <SUITE FILE_PATH="coverage/NUMEROS$Arbol_Binario.coverage" NAME="Arbol_Binario Coverage Results" MODIFIED="1542323135013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grafos" />
     <SUITE FILE_PATH="coverage/NUMEROS$Grafos_2_Practica.coverage" NAME="Grafos_2_Practica Coverage Results" MODIFIED="1542418132963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grafos_y_Arbol" />
     <SUITE FILE_PATH="coverage/NUMEROS$grafos.coverage" NAME="grafos Coverage Results" MODIFIED="1542307688853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ArbolBinario2L" />
-    <SUITE FILE_PATH="coverage/NUMEROS$main.coverage" NAME="main Coverage Results" MODIFIED="1542174448139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grafos" />
+    <SUITE FILE_PATH="coverage/NUMEROS$main.coverage" NAME="main Coverage Results" MODIFIED="1544134634885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MetodosOrdenamiento" />
     <SUITE FILE_PATH="coverage/NUMEROS$main__4_.coverage" NAME="main (4) Coverage Results" MODIFIED="1541648915457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ArbolBinario" />
     <SUITE FILE_PATH="coverage/NUMEROS$lista.coverage" NAME="lista Coverage Results" MODIFIED="1538529090549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -80,7 +70,7 @@
     <session id="610971267">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="37" />
+          <entry key="project.closed" value="39" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.102" value="1" />
           <entry key="project.open.time.105" value="1" />
@@ -100,38 +90,40 @@
           <entry key="project.open.time.66" value="1" />
           <entry key="project.open.time.67" value="1" />
           <entry key="project.open.time.68" value="1" />
+          <entry key="project.open.time.77" value="1" />
           <entry key="project.open.time.79" value="1" />
           <entry key="project.open.time.80" value="1" />
           <entry key="project.open.time.82" value="1" />
           <entry key="project.open.time.83" value="1" />
           <entry key="project.open.time.85" value="1" />
           <entry key="project.open.time.86" value="1" />
+          <entry key="project.open.time.88" value="1" />
           <entry key="project.open.time.89" value="1" />
           <entry key="project.open.time.98" value="1" />
-          <entry key="project.opened" value="38" />
+          <entry key="project.opened" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="44" />
-          <entry key="py" value="15589" />
+          <entry key="py" value="17489" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="44" />
-          <entry key="Python" value="15589" />
+          <entry key="Python" value="17489" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="190" />
+          <entry key="Python" value="204" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="190" />
+          <entry key="py" value="204" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -139,11 +131,50 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Metodos_D_Ordenamiento/MergeSort/MergeSort.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MetodosOrdenamiento/aBurbuja.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="272">
+              <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MetodosOrdenamiento/QuickSort.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MetodosOrdenamiento/HeapSort.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="86">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MetodosOrdenamiento/mergeSort.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="205">
+              <caret line="22" column="34" lean-forward="true" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MetodosOrdenamiento/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -163,12 +194,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Insercion.py" />
-        <option value="$PROJECT_DIR$/busquedaLineal.py" />
-        <option value="$PROJECT_DIR$/busquedaBinaria.py" />
-        <option value="$PROJECT_DIR$/Pila/main.py" />
-        <option value="$PROJECT_DIR$/ProyectosEnPracticaConElprofe/Pila.py" />
-        <option value="$PROJECT_DIR$/ProyectosDelProfeEnPracticas/Pila1.0.py" />
         <option value="$PROJECT_DIR$/ProyectosDelProfeEnPracticas/Colas.py" />
         <option value="$PROJECT_DIR$/Practica 1/Practica1.py" />
         <option value="$PROJECT_DIR$/ProyectosDelProfeEnPracticas/Pruebas.py" />
@@ -211,9 +236,15 @@
         <option value="$PROJECT_DIR$/Metodos_D_Ordenamiento/RadixSort/Main.py" />
         <option value="$PROJECT_DIR$/Metodos_D_Ordenamiento/RadixSort/RadixSort.py" />
         <option value="$PROJECT_DIR$/Metodos_D_Ordenamiento/BubleSort1/BubleSort1.py" />
-        <option value="$PROJECT_DIR$/Metodos_D_Ordenamiento/MergeSort/MergeSort.py" />
         <option value="$PROJECT_DIR$/Metodos_D_Ordenamiento/MergeSort/mainM.py" />
+        <option value="$PROJECT_DIR$/Metodos_D_Ordenamiento/QuickSort/QuickSort.py" />
         <option value="$PROJECT_DIR$/Metodos_D_Ordenamiento/BubleSort1/mainB.py" />
+        <option value="$PROJECT_DIR$/Metodos_D_Ordenamiento/MergeSort/MergeSort.py" />
+        <option value="$PROJECT_DIR$/Metodos_De_Busqueda/Secuencial.py" />
+        <option value="$PROJECT_DIR$/Metodos_De_Busqueda/Binaria.py" />
+        <option value="$PROJECT_DIR$/Metodos_De_Busqueda/main.py" />
+        <option value="$PROJECT_DIR$/Metodos_De_Busqueda/Llave.py" />
+        <option value="$PROJECT_DIR$/MetodosOrdenamiento/HeapSort.py" />
       </list>
     </option>
   </component>
@@ -223,7 +254,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="683" />
     <option name="width" value="683" />
     <option name="height" value="728" />
@@ -253,7 +284,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -264,18 +294,13 @@
             <path>
               <item name="NUMEROS" type="b2602c69:ProjectViewProjectNode" />
               <item name="NUMEROS" type="462c0819:PsiDirectoryNode" />
-              <item name="Metodos_D_Ordenamiento" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NUMEROS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NUMEROS" type="462c0819:PsiDirectoryNode" />
-              <item name="Metodos_D_Ordenamiento" type="462c0819:PsiDirectoryNode" />
-              <item name="MergeSort" type="462c0819:PsiDirectoryNode" />
+              <item name="MetodosOrdenamiento" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -311,8 +336,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.mainM">
-    <configuration name="Grafos_4_Practicas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.mergeSort">
+    <configuration name="HeapSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="NUMEROS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -320,12 +345,56 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Grafos_y_Arbol" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MetodosOrdenamiento" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Grafos_y_Arbol/Grafos_4_Practicas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MetodosOrdenamiento/HeapSort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="QuickSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NUMEROS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MetodosOrdenamiento" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MetodosOrdenamiento/QuickSort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aBurbuja" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NUMEROS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MetodosOrdenamiento" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MetodosOrdenamiento/aBurbuja.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -356,7 +425,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mainB (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="NUMEROS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -364,12 +433,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Metodos_D_Ordenamiento/BubleSort" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MetodosOrdenamiento" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Metodos_D_Ordenamiento/BubleSort/mainB.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MetodosOrdenamiento/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -378,7 +447,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mainB (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="mergeSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="NUMEROS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -386,56 +455,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Metodos_D_Ordenamiento/BubleSort1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MetodosOrdenamiento" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Metodos_D_Ordenamiento/BubleSort1/mainB.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="mainB" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="NUMEROS" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BubleSort" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BubleSort/mainB.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="mainM" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="NUMEROS" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Metodos_D_Ordenamiento/MergeSort" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Metodos_D_Ordenamiento/MergeSort/mainM.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MetodosOrdenamiento/mergeSort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -446,19 +471,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.main (4)" />
-      <item itemvalue="Python.Grafos_4_Practicas" />
-      <item itemvalue="Python.mainB" />
-      <item itemvalue="Python.mainB (1)" />
-      <item itemvalue="Python.mainB (2)" />
-      <item itemvalue="Python.mainM" />
+      <item itemvalue="Python.aBurbuja" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.HeapSort" />
+      <item itemvalue="Python.mergeSort" />
+      <item itemvalue="Python.QuickSort" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.mainM" />
-        <item itemvalue="Python.mainB (2)" />
-        <item itemvalue="Python.mainB (1)" />
-        <item itemvalue="Python.mainB" />
-        <item itemvalue="Python.Grafos_4_Practicas" />
+        <item itemvalue="Python.mergeSort" />
+        <item itemvalue="Python.HeapSort" />
+        <item itemvalue="Python.QuickSort" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.aBurbuja" />
       </list>
     </recent_temporary>
   </component>
@@ -477,8 +502,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17246597" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16717096" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -509,42 +535,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Animales.py" />
-    <entry file="file://$PROJECT_DIR$/Numeros.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lista.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Seleccion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Insercion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/busquedaLineal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" selection-start-line="25" selection-end-line="25" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ProyectosEnPracticaConElprofe/Pila.py" />
     <entry file="file://$PROJECT_DIR$/busquedaBinaria.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -684,13 +674,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Metodos_D_Ordenamiento/QuickSort/QuickSort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Grafos_y_Arbol/Grafos.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -744,14 +727,7 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Metodos_D_Ordenamiento/RadixSort/RadixSort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1542857673528" expanded="true" signature="16:17" ph="..." />
-            <marker date="1542857673528" expanded="true" signature="16:22" ph="..." />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Cola/main.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -774,37 +750,103 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Metodos_D_Ordenamiento/BubleSort1/BubleSort1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Metodos_D_Ordenamiento/MergeSort/mainM.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-end-line="2" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Metodos_D_Ordenamiento/QuickSort/QuickSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Metodos_D_Ordenamiento/BubleSort1/mainB.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Metodos_D_Ordenamiento/BubleSort1/BubleSort1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Metodos_D_Ordenamiento/MergeSort/MergeSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Metodos_De_Busqueda/main.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Metodos_De_Busqueda/Binaria.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Metodos_De_Busqueda/Secuencial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Metodos_De_Busqueda/Llave.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="33" lean-forward="true" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+          <folding>
+            <marker date="1544058059553" expanded="true" signature="12:17" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MetodosOrdenamiento/aBurbuja.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MetodosOrdenamiento/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Metodos_D_Ordenamiento/MergeSort/MergeSort.py">
+    <entry file="file://$PROJECT_DIR$/MetodosOrdenamiento/QuickSort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MetodosOrdenamiento/HeapSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MetodosOrdenamiento/mergeSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="22" column="34" lean-forward="true" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
         </state>
       </provider>
     </entry>
